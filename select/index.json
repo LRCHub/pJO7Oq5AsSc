@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "どうかな?",
+  "base_artist": "Watson",
+  "createdAt": "2026-03-23T19:42:11.198318Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どうかな? (feat. ANARCHY)",
+      "artist": "Watson",
+      "has_synced": false,
+      "path": "select/pl_01_どうかな__(feat._ANARCHY)_Watson.txt"
+    }
+  ]
+}
